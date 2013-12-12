@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2008-11-23 10:58:42.171.pas,C:\Documents and Settings\chenxuan\My Documents\RAD Studio\Projects\Unit1.pas=D:\Works\JWord\uMain.pas</Transaction>
+    <Transaction>2008-11-23 10:58:42.171.dfm,C:\Documents and Settings\chenxuan\My Documents\RAD Studio\Projects\Unit1.dfm=D:\Works\JWord\uMain.dfm</Transaction>
+    <Transaction>2008-11-23 10:59:11.671.dproj,C:\Documents and Settings\chenxuan\My Documents\RAD Studio\Projects\Project1.dproj=D:\Works\JWord\JWord.dproj</Transaction>
+    <Transaction>2008-11-23 16:17:44.203.pas,D:\Works\JWord\Unit1.pas=D:\Works\JWord\uFunc.pas</Transaction>
+    <Transaction>2008-11-26 22:21:34.596.pas,D:\Works\JWord\Unit2.pas=D:\Works\JWord\uSet.pas</Transaction>
+    <Transaction>2008-11-26 22:21:34.596.dfm,D:\Works\JWord\Unit2.dfm=D:\Works\JWord\uSet.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
